@@ -11,4 +11,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/css-snippets)
 
 ## Things I Maintain
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/discord-revamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/luckfire/discord-revamp)
