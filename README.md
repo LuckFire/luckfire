@@ -9,3 +9,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons&theme=dark)](https://github.com/luckfire/gradientbuttons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/bottombar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/css-snippets)
+
+## Things I've Fixed
+soon:tm:
