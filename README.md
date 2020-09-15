@@ -6,9 +6,10 @@
 </p>
 
 ## Things I've Made
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons&theme=dark)](https://github.com/luckfire/gradientbuttons)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/bottombar)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/css-snippets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons&theme=dark)](https://github.com/luckfire/GradientButtons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/Bottombar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/CSS-sSippets)
 
 ## Things I Maintain
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/luckfire/discord-revamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/luckfire/Discord-Revamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Snapperito&repo=Dark-Discord&theme=dark)](https://github.com/Snapperito/Dark-Discord)
