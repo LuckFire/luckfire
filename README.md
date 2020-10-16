@@ -10,6 +10,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/Bottombar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=NameBadges&theme=dark)](https://github.com/luckfire/NameBadges)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/luckfire/BetterChannelIndicators)
+
+## Snippets I've Made
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/CSS-Snippets)
 
 ## Things I (Poorly) Maintain
