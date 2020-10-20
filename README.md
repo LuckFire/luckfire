@@ -9,6 +9,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons&theme=dark)](https://github.com/luckfire/GradientButtons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/Bottombar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/luckfire/BetterChannelIndicators)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=AMOLED-Cord&theme=dark)](https://github.com/luckfire/AMOLED-Cord)
 
 ## Things I (Poorly) Maintain
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/luckfire/Discord-Revamp)
