@@ -16,7 +16,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/luckfire/BottomBar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/luckfire/BetterChannelIndicators)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=NameBadges&theme=dark)](https://github.com/luckfire/NameBadges)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/luckfire/RevampedUserArea)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/luckfire/RevampedUserArea) 
 
 ## Things I Maintain
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/luckfire/Discord-Revamp)
