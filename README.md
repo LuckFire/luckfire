@@ -9,6 +9,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark)](https://github.com/luckfire/Theme-Source)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=AMOLED-Cord&theme=dark)](https://github.com/luckfire/AMOLED-Cord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=HLJS-Styling&theme=dark)](https://github.com/luckfire/HLJS-Styling)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Midnight-Mars&theme=dark)](https://github.com/luckfire/Midnight-Mars)
 
 ## CSS Addons I've Made
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/luckfire/CSS-Snippets)
