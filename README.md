@@ -12,7 +12,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Midnight-Mars&theme=dark)](https://github.com/LuckFire/Midnight-Mars)
 
 ## CSS Addons I've Made
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=CSS-Snippets&theme=dark)](https://github.com/LuckFire/CSS-Snippets)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons-v2&theme=dark)](https://github.com/LuckFire/GradientButtons-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/LuckFire/BottomBar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/LuckFire/BetterChannelIndicators)
