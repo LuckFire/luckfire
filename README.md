@@ -11,8 +11,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=HLJS-Styling&theme=dark)](https://github.com/LuckFire/HLJS-Styling)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Midnight-Mars&theme=dark)](https://github.com/LuckFire/Midnight-Mars)
 
-## CSS Addons I've Made
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=GradientButtons-v2&theme=dark)](https://github.com/LuckFire/GradientButtons-v2)
+## SASS/CSS Addons I've Made
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Powercord-Snippets&theme=dark)](https://github.com/LuckFire/Powercord-Snippets)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/LuckFire/BottomBar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/LuckFire/BetterChannelIndicators)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=NameBadges&theme=dark)](https://github.com/LuckFire/NameBadges)
