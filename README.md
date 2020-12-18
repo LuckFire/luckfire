@@ -22,6 +22,6 @@
 
 ## Things I Maintain
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/LuckFire/Discord-Revamp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Snapperito&repo=Dark-Discord&theme=dark)](https://github.com/Snapperito/Dark-Discord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snappercord&repo=Dark-Discord&theme=dark)](https://github.com/snappercord/Dark-Discord)
 
 ![Profile views](https://komarev.com/ghpvc/?username=LuckFire)
