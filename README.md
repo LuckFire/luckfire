@@ -17,10 +17,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BottomBar&theme=dark)](https://github.com/LuckFire/BottomBar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=BetterChannelIndicators&theme=dark)](https://github.com/LuckFire/BetterChannelIndicators)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=NameBadges&theme=dark)](https://github.com/LuckFire/NameBadges)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Better-Toasts&theme=dark)](https://github.com/LuckFire/Better-Toasts) 
 
-## Things I Maintain
+## Things I (kinda) Maintain
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/LuckFire/Discord-Revamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snappercord&repo=Dark-Discord&theme=dark)](https://github.com/snappercord/Dark-Discord)
 
