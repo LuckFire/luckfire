@@ -31,8 +31,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Power-Toasts&theme=dark)](https://github.com/LuckFire/Power-Toasts) 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
+  <table>
+  <tr>
+      <tr align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
+      </tr>
+      <tr align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
+      </tr>
+  </tr>
+  </table>
 </p>
