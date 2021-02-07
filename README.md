@@ -1,4 +1,4 @@
-## STATS
+## <h2 align="center">GITHUB STATS</h2>
 <a href="https://github.com/LuckFire">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
@@ -29,3 +29,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Power-Toasts&theme=dark)](https://github.com/LuckFire/Power-Toasts) 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
+</p>
