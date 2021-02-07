@@ -1,10 +1,4 @@
-## <h2 align="center">GITHUB STATS</h2>
-<a href="https://github.com/LuckFire">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
-  </p>
-</a>
-
+## GITHUB STATS
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckFire&show_icons=true&theme=dark" alt="LuckFire's Language Usages">
 </p>
@@ -12,6 +6,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckFire&theme=dark" alt="LuckFire's Language Usages">
 </p>
+<a href="https://github.com/LuckFire">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
+  </p>
+</a>
 
 ## THEMES
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark)](https://github.com/LuckFire/Theme-Source)
@@ -29,16 +28,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Power-Toasts&theme=dark)](https://github.com/LuckFire/Power-Toasts) 
-
-<p align="center">
-  <table>
-  <tr>
-      <tr align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
-      </tr>
-      <tr align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark" alt="https://github.com/LuckFire/Theme-Source">
-      </tr>
-  </tr>
-  </table>
-</p>
