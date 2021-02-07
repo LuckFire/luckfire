@@ -1,4 +1,3 @@
-<h2 align="center">Stats</h2>
 <a href="https://github.com/LuckFire">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
