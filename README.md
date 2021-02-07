@@ -1,6 +1,14 @@
+<h2 align="center">Stats</h2>
+<a href="https://github.com/LuckFire">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
+  </p>
+</a>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckFire&show_icons=true&theme=dark" alt="LuckFire's Language Usages">
 </p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckFire&theme=dark" alt="LuckFire's Language Usages">
 </p>
@@ -21,5 +29,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Power-Toasts&theme=dark)](https://github.com/LuckFire/Power-Toasts) 
-
-![Profile views](https://komarev.com/ghpvc/?username=LuckFire)
