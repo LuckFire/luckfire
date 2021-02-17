@@ -27,4 +27,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=NameBadges&theme=dark)](https://github.com/LuckFire/NameBadges)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=RevampedUserArea&theme=dark)](https://github.com/LuckFire/RevampedUserArea)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Nicer-User-Connections&theme=dark)](https://github.com/LuckFire/Nicer-User-Connections)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=amazing-activity-cards&theme=dark)](https://github.com/LuckFire/amazing-activity-cards)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Power-Toasts&theme=dark)](https://github.com/LuckFire/Power-Toasts) 
