@@ -1,14 +1,10 @@
 ## GITHUB STATS
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckFire&show_icons=true&theme=dark" alt="LuckFire's Language Usages">
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckFire&theme=dark" alt="LuckFire's Language Usages">
-</p>
 <a href="https://github.com/LuckFire">
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=LuckFire" alt="Profile Views Count">
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckFire&show_icons=true&theme=dark" alt="LuckFire's Language Usages">
   </p>
 </a>
 
