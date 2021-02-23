@@ -9,10 +9,9 @@
 </a>
 
 ## THEMES
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Theme-Source&theme=dark)](https://github.com/LuckFire/Theme-Source)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Midnight-Mars&theme=dark)](https://github.com/LuckFire/Midnight-Mars)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Discord-Revamp&theme=dark)](https://github.com/LuckFire/Discord-Revamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=AMOLED-Cord&theme=dark)](https://github.com/LuckFire/AMOLED-Cord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=Midnight-Mars&theme=dark)](https://github.com/LuckFire/Midnight-Mars)
 
 ## THEME ADDONS
-Moved all addons to https://github.com/Discord-Theme-Addons
+I've moved all of my theme addons to an organization to clean up my profile, you can find them **[here](https://github.com/Discord-Theme-Addons)**
