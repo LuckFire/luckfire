@@ -10,6 +10,7 @@
 
 <h2 align="center">THEMES</h2>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=theme-source&theme=dark)](https://github.com/LuckFire/theme-source)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=midnight-mars&theme=dark)](https://github.com/LuckFire/midnight-mars)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=discord-revamp&theme=dark)](https://github.com/LuckFire/discord-revamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuckFire&repo=amoled-cord&theme=dark)](https://github.com/LuckFire/amoled-cord)
